@@ -16,10 +16,17 @@
     "nodemon": "^2.0.4"
   },
   "dependencies": {
+    "@fast-csv/parse": "^4.3.2",
     "apollo-boost": "^0.4.9",
+    "apollo-link-context": "^1.0.20",
     "apollo-link-http": "^1.5.17",
+    "apollo-link-ws": "^1.0.20",
+    "bcryptjs": "^2.4.3",
     "cross-fetch": "^3.0.6",
     "dotenv": "^8.2.0",
-    "graphql": "^15.3.0"
+    "download": "^8.0.0",
+    "graphql": "^15.3.0",
+    "subscriptions-transport-ws": "^0.9.18",
+    "ws": "^7.3.1"
   }
 }
